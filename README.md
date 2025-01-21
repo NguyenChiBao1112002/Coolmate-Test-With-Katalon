@@ -13,7 +13,7 @@ Additionally, this project is created as a part of Coolmate's automated testing 
 - 🌐 **Automated Web Testing** using Selenium
 - 🛠️ **API Testing** with built-in Katalon keywords
 - 🌍 **Integration with GitHub** for version control
-- 📸 **Detailed Test Reports** with screenshots ([TestScenarios](Test%20Scenarios), [Summary Reports](Summary%20Reports))
+- 📸 **Detailed Test Reports** with screenshots ([Test Scenarios](Test%20Scenarios), [Summary Reports](Summary%20Reports))
 - 🧪 **Data-Driven Testing** for multiple test scenarios
 
 ## ⚙️ Prerequisites
