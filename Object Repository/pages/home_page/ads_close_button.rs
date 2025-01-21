@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ads_close_button</name>
+   <tag></tag>
+   <elementGuidId>bedefe21-a075-4169-942f-16da820ed552</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[contains(@class,&quot;popup&quot;)]/div//button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[contains(@class,&quot;popup&quot;)]/div//button</value>
+      <webElementGuid>20ac137d-d5c6-4b7e-8b26-206d1bb8ee1a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

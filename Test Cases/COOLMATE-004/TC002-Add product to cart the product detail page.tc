@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add product to cart from the product detail page</description>
+   <name>TC002-Add product to cart the product detail page</name>
+   <tag>COOLMATE-004; TC002; Cart</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6da9e1b9-3c2c-40a4-9a73-be555edeea41</testCaseGuid>
+</TestCaseEntity>
