@@ -1,26 +1,26 @@
-# Test Project with Katalon
+# 🌟 Test Project with Katalon🌟
 
-![Katalon Logo](https://www.katalon.com/resources-center/assets/images/home/katalon_logo_white.svg)
 
-## Overview
+
+## 🚀 Overview
 
 This project demonstrates automated testing using [Katalon Studio](https://www.katalon.com/), a comprehensive tool for web, API, mobile, and desktop application testing. The project includes sample test cases, execution reports, and a structured framework to ensure easy maintenance and scalability.
 
-## Features
+## ✨ Features
 
-- Automated web testing using Selenium
-- API testing with built-in Katalon keywords
-- Integration with GitHub for version control
-- Detailed test reports with screenshots
-- Data-driven testing for multiple test scenarios
+- 🌐 **Automated Web Testing** using Selenium
+- 🛠️ **API Testing** with built-in Katalon keywords
+- 🌍 **Integration with GitHub** for version control
+- 📸 **Detailed Test Reports** with screenshots
+- 🧪 **Data-Driven Testing** for multiple test scenarios
 
-## Prerequisites
+## ⚙️ Prerequisites
 
 - [Katalon Studio](https://www.katalon.com/download/)
 - Java Runtime Environment (JRE) 8 or higher
 - Git
 
-## Setup
+## 🛠️ Setup
 
 1. **Clone the repository:**
     ```sh
@@ -35,7 +35,7 @@ This project demonstrates automated testing using [Katalon Studio](https://www.k
     - Set up test execution environments
     - Configure API endpoints and credentials
 
-## Running Tests
+## 🏃‍♂️ Running Tests
 
 1. **Execute web tests:**
     - Open `Test Suites` in Katalon Studio
@@ -46,16 +46,17 @@ This project demonstrates automated testing using [Katalon Studio](https://www.k
     - Open `API Tests` folder
     - Select and run the desired test case
 
-## Reporting
+## 📊 Reporting
 
 After test execution, detailed reports will be generated in the `Reports` folder. These reports include:
 - Execution logs
 - Screenshots for failed steps
 - Summary of test results
 
----
+## 🤝 Contribution
+
+Feel free to submit pull requests, report issues, or suggest improvements. Your contributions are highly appreciated!
 
 **Author**: Nguyen Chi Bao 
-**LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/bao-nguyen-85356b265)  
-**GitHub**: [Your GitHub](https://github.com/NguyenChiBao1112002)
-
+**LinkedIn**: [Bao Nguyen](https://www.linkedin.com/in/bao-nguyen-85356b265)  
+**GitHub**: [NguyenChiBao1112002](https://github.com/NguyenChiBao1112002)
