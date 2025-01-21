@@ -57,6 +57,6 @@ After test execution, detailed reports will be generated in the `Reports` folder
 
 Feel free to submit pull requests, report issues, or suggest improvements. Your contributions are highly appreciated!
 
-**Author**: Nguyen Chi Bao 
+**Author**: Nguyen Chi Bao  
 **LinkedIn**: [Bao Nguyen](https://www.linkedin.com/in/bao-nguyen-85356b265)  
 **GitHub**: [NguyenChiBao1112002](https://github.com/NguyenChiBao1112002)
