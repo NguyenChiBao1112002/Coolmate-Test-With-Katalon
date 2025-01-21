@@ -4,14 +4,16 @@
 
 ## 🚀 Overview
 
-This project demonstrates automated testing using [Katalon Studio](https://www.katalon.com/), a comprehensive tool for web, API, mobile, and desktop application testing. The project includes sample test cases, execution reports, and a structured framework to ensure easy maintenance and scalability.
+This project demonstrates automated testing using [Katalon Studio](https://www.katalon.com/), a comprehensive tool for web, API, mobile, and desktop application testing. 
+The project includes sample test cases, execution reports, and a structured framework to ensure easy maintenance and scalability.  
+Additionally, this project is created as a part of Coolmate's automated testing initiatives, aimed at enhancing the quality and reliability of our
 
 ## ✨ Features
 
 - 🌐 **Automated Web Testing** using Selenium
 - 🛠️ **API Testing** with built-in Katalon keywords
 - 🌍 **Integration with GitHub** for version control
-- 📸 **Detailed Test Reports** with screenshots
+- 📸 **Detailed Test Reports** with screenshots ([TestScenarios](Test%20Scenarios), [Summary Reports](Summary%20Reports))
 - 🧪 **Data-Driven Testing** for multiple test scenarios
 
 ## ⚙️ Prerequisites
